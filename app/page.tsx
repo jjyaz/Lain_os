@@ -73,7 +73,7 @@ export default function Home() {
                       BEGIN UPLOAD →
                     </Button>
                     <img
-                      src="/red lain.jpg"
+                      src="/red lain copy.jpg"
                       alt="Lain"
                       className="h-24 object-contain opacity-80 hover:opacity-100 transition-opacity duration-300"
                     />
